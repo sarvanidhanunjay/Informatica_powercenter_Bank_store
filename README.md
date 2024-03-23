@@ -1,1 +1,3 @@
 # Informatica_powercenter_Bank_store
+The main objective of this bank store Informatica Project is all about a customer information store. Solution is required to provide a suitable enterprise wide information environment capable of meeting our future platform for information collation from various source systems, performing complex calculations .
+Developer Responsibilities are nvolved in Database Programming.Analysed ,Designed and developed packages procedures and functions using SQl.Optimization of the different SQL queries to ensure faster response time.Create TAbles,Indexes and Views Etc., Modifying & creating SQL procedures functions, Packages, Trigger, and SQL Querie for Reports.
